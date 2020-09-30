@@ -1,2 +1,2 @@
 # App-Development-in-Java-Swing
-2 day workshop materials
+2 days workshop material
